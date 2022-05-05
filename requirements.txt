@@ -1,0 +1,4 @@
+# TODO Update requirements accordingly
+pyspark==3.1.2
+setuptools==62.1.0
+turing-etl-utilities==1.4.3
